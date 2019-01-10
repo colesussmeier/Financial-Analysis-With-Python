@@ -6,7 +6,7 @@
 
 ## Introduction 
 
-I decided to do this project because I wanted to visualize the warning signs of a recession using data analytics. Since gold is often directly correlated economic and political uncertainty, I decided to make a simple algorithm to trade gold as well. I will assume that most people reading this will be more intersested in the results of this project rather than using the code, so I have attached two html files that walk through the projects. Please see GoldAnalysis.html first, as it justifies why the algorithm was written in the first place.
+I decided to do this project because I wanted to visualize the warning signs of a recession using data analytics. Since gold is often directly correlated economic and political uncertainty, I decided to make a simple algorithm to trade gold as well. I will assume that most people reading this will be more intersested in the results of this project rather than using the code, so I have attached two markdown files that walk through the projects. Please see markdown_files/GoldAnalysis.md first, as it justifies why the algorithm was written in the first place.
 
 For anyone interested in creating an algorithm similar to this, I will have directions for installing the required software to do so at a later date. 
 
