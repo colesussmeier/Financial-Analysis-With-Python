@@ -1,16 +1,15 @@
-# <center> State of The Economy 2019</center>
+# <p align='justify'> State of The Economy 2019</p>
 
-<center>Cole Sussmeier</center>
+<p align='justify'>Cole Sussmeier</p>
 
 ---
 
 ## Introduction 
 
-I decided to do this project because I wanted to visualize the warning signs of a recession using data analytics. Since gold is often directly correlated economic and political uncertainty, I decided to make a simple algorithm to trade gold as well. I will assume that most people reading this will be more intersested in the results of this project rather than using the code, so I have attached two markdown files that walk through the projects. Please see markdown_files/GoldAnalysis.md first, as it justifies why the algorithm was written in the first place.
+I decided to do this project because I wanted to visualize the warning signs of a recession using data analytics. Since the price of gold is often correlated with economic and political uncertainty, I decided to make a simple algorithm to trade gold as well. Please see GoldAnalysis first as it justifies what is used in the algorithm.
 
 For anyone interested in creating an algorithm similar to this, I will have directions for installing the required software to do so at a later date. 
 
---- 
 
 ## To Do
 * Implement more macroeconomic indicators
