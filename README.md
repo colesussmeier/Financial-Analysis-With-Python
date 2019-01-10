@@ -2,7 +2,6 @@
 
 <p align='justify'>Cole Sussmeier</p>
 
----
 
 ## Introduction 
 
