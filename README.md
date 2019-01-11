@@ -1,4 +1,4 @@
-# <p align='justify'> State of The Economy 2019</p>
+# <p align='justify'>The Price of Gold VS Indicators of a Recession</p>
 
 <p align='justify'>Cole Sussmeier</p>
 
