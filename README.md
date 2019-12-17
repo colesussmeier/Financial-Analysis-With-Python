@@ -7,7 +7,9 @@
 
 I decided to do this project because I wanted to visualize the warning signs of a recession using data analytics. Since the price of gold is often correlated with economic and political uncertainty, I decided to make a simple algorithm to trade gold as well. Please see GoldAnalysis first as it justifies what is used in the algorithm.
 
-For anyone interested in creating an algorithm similar to this, I will have directions for installing the required software to do so at a later date. 
+## December 2019 Update
+
+The data used for this project has not been updated for 2019. The yield curve has since gone negative and the media is beginning to talk about the possibility of a recession. The results of this project indicated that changes in the federal funds rate are correlated with the price of gold. However, this is only a demonstration of an idea and should not be used as a basis to make financial decisions. 
 
 
 ## To Do
