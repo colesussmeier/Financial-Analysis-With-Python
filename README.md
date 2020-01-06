@@ -15,4 +15,4 @@ The data used for this project has not been updated for 2019. The yield curve ha
 ## To Do
 * Implement more macroeconomic indicators
 * More data for the price of gold-- Currently the algorithm is trading a gold ETF(SPDR Gold Shares) since it was the only free data I could find in the correct OHLCV format. This data only goes back to 2004
-* optimization method-- Performance is not optimized, right now the weights of indicators are based on trial and error
+* Optimization method-- Performance is not optimized, right now the weights of indicators are based on trial and error
